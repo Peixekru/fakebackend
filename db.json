@@ -1,5 +1,6 @@
 {
     "login": {
+
         "userId": 1,
         "token": "123456"
     },
@@ -324,18 +325,7 @@
                     "sendDate": "07/07/2024",
                     "email": "user@mail.com",
                     "style": 1,
-                    "sendMessage": "Lorem ipsum dolor sit am et, consetetur sadipscing elitr,
-                    sed diam nonumy eirm od tempor invidunt ut labore et
-                    dolore magna aliquyam erat, sed diam voluptua. At vero
-                    eos et accusam et justo duo dolores et ea rebum. Stet
-                    clita kasd gubergren, no sea takimata sanctus est Lorem
-                    ipsum dolor sit am et. Lorem ipsum dolor sit am et,
-                    consetetur sadipscing elitr, sed diam	nonumy eirm od
-                    tempor invidunt ut labore et dolore magna aliquyam erat,
-                    sed diam voluptua. At vero eos et accusam et justo duo
-                    dolores et ea rebum. Stet clita kasd gubergren, no sea
-                    takimata sanctus est Lorem ipsum dolor sit am et.
-                    Lorem ipsum dolor sit am et, consetetur sadipscing ."
+                    "sendMessage": "Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus."
                 }
             ]
         },
