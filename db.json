@@ -1,6 +1,5 @@
 {
     "login": {
-
         "userId": 1,
         "token": "123456"
     },
@@ -319,15 +318,13 @@
         ],
         "capsula": {
             "status": 1,
-            "content": [
-                {
-                    "startDate": "07/29/2023",
-                    "sendDate": "07/07/2024",
-                    "email": "user@mail.com",
-                    "style": 1,
-                    "sendMessage": "Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus."
-                }
-            ]
+            "content": {
+                "startDate": "07/29/2023",
+                "sendDate": "07/07/2024",
+                "email": "user@mail.com",
+                "style": 1,
+                "sendMessage": "Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus."
+            }
         },
         "galeria": {
             "status": 1,
