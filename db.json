@@ -328,7 +328,7 @@
         },
         "galeria": {
             "status": 1,
-            "totalUsers": 234,
+            "totalUsers": 233,
             "content": {
                 "userImgs": [
                     "https://placehold.co/600x400/fff/eaeaea?text=user++image++01&font=montserrat",
