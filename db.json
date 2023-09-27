@@ -319,11 +319,11 @@
         "capsula": {
             "status": 1,
             "content": {
-                "startDate": "07/29/2023",
+                "startDate": "",
                 "sendDate": "07/07/2024",
-                "email": "user@mail.com",
+                "email": "",
                 "style": 1,
-                "sendMessage": "Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus. Lorem ipsum dor sir magnum ant lorem sir magnum ipsum lorem dor logus."
+                "sendMessage": ""
             }
         },
         "galeria": {
