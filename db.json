@@ -317,7 +317,7 @@
             }
         ],
         "capsula": {
-            "status": 1,
+            "status": 0,
             "content": {
                 "startDate": "",
                 "sendDate": "07/07/2024",
