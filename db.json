@@ -4,6 +4,7 @@
         "token": "123456"
     },
     "1": {
+        "firstAccess": true,
         "glogalProgress": 0,
         "colorTheme": "light",
         "themeNumber": "0",
