@@ -328,7 +328,7 @@
             }
         },
         "galeria": {
-            "status": 1,
+            "status": 0,
             "totalUsers": 233,
             "content": {
                 "userImgs": [
