@@ -5,6 +5,7 @@
     },
     "1": {
         "firstAccess": 0,
+        "welcomeStepCounter" : 0,
         "glogalProgress": 0,
         "colorTheme": "light",
         "themeNumber": "0",
