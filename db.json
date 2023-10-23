@@ -319,7 +319,7 @@
             }
         ],
         "capsula": {
-            "status": 0,
+            "status": 1,
             "content": {
                 "startDate": "",
                 "sendDate": "07/07/2024",
@@ -329,7 +329,7 @@
             }
         },
         "galeria": {
-            "status": 0,
+            "status": 1,
             "totalUsers": 233,
             "content": {
                 "userImgs": [
