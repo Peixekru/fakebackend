@@ -1,7 +1,7 @@
 {
     "login": {
         "userId": 1,
-        "token": "12345679"
+        "token": "12345678"
     },
     "1": {
         "firstAccess": 0,
@@ -319,7 +319,7 @@
             }
         ],
         "capsula": {
-            "status": 1,
+            "status": 0,
             "content": {
                 "startDate": "",
                 "sendDate": "07/07/2024",
@@ -329,7 +329,7 @@
             }
         },
         "galeria": {
-            "status": 1,
+            "status": 0,
             "totalUsers": 233,
             "content": {
                 "userImgs": [
