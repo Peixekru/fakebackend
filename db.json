@@ -1,7 +1,7 @@
 {
     "login": {
         "userId": 1,
-        "token": "12345678"
+        "token": "12345672"
     },
     "1": {
         "firstAccess": 0,
@@ -322,7 +322,7 @@
             "status": 0,
             "content": {
                 "startDate": "",
-                "sendDate": "07/07/2024",
+                "sendDate": "07/02/2024",
                 "email": "",
                 "style": 1,
                 "sendMessage": ""
