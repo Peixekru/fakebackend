@@ -395,11 +395,11 @@
             }
         },
         "start": {
-            "status": 1,
+            "status": 0,
             "content": []
         },
         "workplace": {
-            "status": 1,
+            "status": 0,
             "content": []
         }
     }
