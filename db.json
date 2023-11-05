@@ -8,9 +8,9 @@
         "welcomeStepCounter" : 0,
         "glogalProgress": 0,
         "access": {
-            "contrast": 0,
-            "color": 0,
-            "cursor":0
+            "contrast": "0",
+            "color": "0",
+            "cursor":"0"
         },
         "colorTheme": "light",
         "themeNumber": "0",
