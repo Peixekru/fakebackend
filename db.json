@@ -1,7 +1,7 @@
 {
     "login": {
         "userId": 1,
-        "token": "123456"
+        "token": "12345678"
     },
     "1": {
         "firstAccess": 0,
@@ -395,7 +395,6 @@
                     {"path": "https://placehold.co/600x400/fff/eaeaea?text=user++41&font=montserrat", "style": 2, "userName": "Kelly Oliveira"},
                     {"path": "https://placehold.co/600x400/fff/eaeaea?text=user++42&font=montserrat", "style": 5, "userName": "Otávio Caetano"}
 
-    
                 ]
             }
         },
