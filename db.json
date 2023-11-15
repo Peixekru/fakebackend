@@ -4,7 +4,7 @@
         "token": "12345678"
     },
     "1": {
-        "firstAccess": 0,
+        "firstAccess": 1,
         "welcomeStepCounter" : 0,
         "glogalProgress": 0,
         "access": {
