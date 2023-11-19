@@ -47,7 +47,8 @@
                                 "objectRating": 1,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 1
+                                "block": 1,
+                                "marker": 0
                             },
                             {
                                 "title": "Cápsula do tempo",
@@ -57,7 +58,8 @@
                                 "objectRating": 2,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             }
                         ]
                     }
@@ -80,7 +82,8 @@
                                 "objectRating": 3,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Vídeo manifesto",
@@ -90,7 +93,8 @@
                                 "objectRating": 4,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Missão, Visão e Valores",
@@ -100,7 +104,8 @@
                                 "objectRating": 5,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "AmigoH",
@@ -110,7 +115,8 @@
                                 "objectRating": 1,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Voluntariado Einstein",
@@ -120,7 +126,8 @@
                                 "objectRating": 2,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Presença Einstein",
@@ -130,7 +137,8 @@
                                 "objectRating": 3,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Nossa estrutura e conquistas",
@@ -140,7 +148,8 @@
                                 "objectRating": 4,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Relógio - Quiz game",
@@ -150,7 +159,8 @@
                                 "objectRating": 5,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             }
                         ]
                     }
@@ -173,7 +183,8 @@
                                 "objectRating": 1,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Ações de Desenvolvimento",
@@ -183,7 +194,8 @@
                                 "objectRating": 2,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Gestão de Desempenho",
@@ -193,7 +205,8 @@
                                 "objectRating": 3,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Experiência do Colaborador",
@@ -203,7 +216,8 @@
                                 "objectRating": 4,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Plano de Carreira e Oportunidades",
@@ -213,7 +227,8 @@
                                 "objectRating": 5,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Coração - Jogo da Memória",
@@ -223,7 +238,8 @@
                                 "objectRating": 1,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             }
                         ]
                     }
@@ -246,7 +262,8 @@
                                 "objectRating": 2,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Qualidade e Segurança",
@@ -256,7 +273,8 @@
                                 "objectRating": 3,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Ética e Compliance",
@@ -266,7 +284,8 @@
                                 "objectRating": 4,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Experiência do Paciente",
@@ -276,7 +295,8 @@
                                 "objectRating": 5,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "#Agora eu sou uma gotinha Einstein - Encerramento com Sidney Klajner",
@@ -286,7 +306,8 @@
                                 "objectRating": 1,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             },
                             {
                                 "title": "Galeria de imagens",
@@ -296,7 +317,8 @@
                                 "objectRating": 2,
                                 "userRating": 0,
                                 "status": 0,
-                                "block": 0
+                                "block": 0,
+                                "marker": 0
                             }
                         ]
                     }
