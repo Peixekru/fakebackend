@@ -308,17 +308,6 @@
                                 "status": 0,
                                 "block": 0,
                                 "marker": 0
-                            },
-                            {
-                                "title": "Galeria de imagens",
-                                "icon": "slide",
-                                "time": 7,
-                                "img": "https://placehold.co/600x400/fff/eaeaea?text=content++image++02&font=montserrat",
-                                "objectRating": 2,
-                                "userRating": 0,
-                                "status": 0,
-                                "block": 0,
-                                "marker": 0
                             }
                         ]
                     }
