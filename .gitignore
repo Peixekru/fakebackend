@@ -1,2 +1,4 @@
 node_modules
 .DS_Store
+/ProdServer/index_bkp.js
+/ProdServer/node_modules
